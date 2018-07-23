@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Deliveroo</string>
+    <string name="place_title">Danh sách địa điểm</string>
+    <string name="add_place">Thêm Địa Điểm</string>
+    <string name="find_route">Tìm Đường</string>
+
+    <string name="GoogleMapsDirectionsApiKey">AIzaSyDJSTSB3Ugunwpv9esz5In0Dnkpx2cNP08</string>
+
+    <string name="icon_car" translatable="false">&#xf36f;</string>
+    <string name="icon_bicycle" translatable="false">&#xf369;</string>
+    <string name="icon_walking" translatable="false">&#xf3bb;</string>
+    <string name="icon_delete" translatable="false">&#xf36e;</string>
+
+    <string name="current_location">Xuat Phat</string>
+    <string name="final_route">"Cung đường: "</string>
+    <string name="shortest_path">"Đường ngắn nhất: "</string>
+    <string name="longest_path">"Đường dài nhất: "</string>
+</resources>
